@@ -5,3 +5,6 @@ chromadb
 pypdf 
 sentence-transformers 
 python-docx
+pymupdf
+langchain-text-splitters
+python-dotenv
