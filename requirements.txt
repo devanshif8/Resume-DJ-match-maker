@@ -8,3 +8,4 @@ python-docx
 pymupdf
 langchain-text-splitters
 python-dotenv
+pandas
