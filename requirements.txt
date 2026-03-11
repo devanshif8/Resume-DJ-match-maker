@@ -9,3 +9,4 @@ pymupdf
 langchain-text-splitters
 python-dotenv
 pandas
+openai
